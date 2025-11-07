@@ -1,30 +1,6 @@
-<p align="center">
-  <a href="https://storybook.js.org/">
-    <img src="https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png" alt="Storybook" width="400" />
-  </a>
-</p>
+## This repository has been moved
 
-<p align="center">Build bulletproof UI components faster</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://discord.gg/storybook">
-    <img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" />
-  </a>
-  <a href="https://storybook.js.org/community/">
-    <img src="https://img.shields.io/badge/community-join-4BC424.svg" alt="Storybook Community" />
-  </a>
-  <a href="#backers">
-    <img src="https://opencollective.com/storybook/backers/badge.svg" alt="Backers on Open Collective" />
-  </a>
-  <a href="#sponsors">
-    <img src="https://opencollective.com/storybook/sponsors/badge.svg" alt="Sponsors on Open Collective" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=storybookjs">
-    <img src="https://badgen.net/twitter/follow/storybookjs?icon=twitter&label=%40storybookjs" alt="Official Twitter Handle" />
-  </a>
-</p>
+This package has moved and is now part of the [Storybook monorepo](https://github.com/storybookjs/storybook/tree/next/code/lib/eslint-plugin) since version 9. Please update your dependencies. This repository is no longer maintained. If there are issues or requests, please report them in the [Storybook monorepo](https://github.com/storybookjs/storybook/).
 
 # eslint-plugin-storybook
 
